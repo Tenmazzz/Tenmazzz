@@ -6,7 +6,7 @@ I'm passionate about building things that are actually useful, and I like diggin
 
 ## 🚀 Currently building
 
-**Study Group** — an AI-powered learning app that turns course material (PDF, images) into structured lessons and exercises, using the Groq API and a local model (Gemma). Built with a hexagonal architecture on FastAPI + PostgreSQL.
+**Study Group** — an AI-powered learning app that turns course material (PDF, images) into structured lessons and exercises, using the Groq API and a local model (Gemma). Built with a hexagonal architecture on Vue.js and FastAPI + PostgreSQL.
 
 ## 🛠️ Tech Stack
 
