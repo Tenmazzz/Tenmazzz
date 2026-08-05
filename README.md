@@ -8,7 +8,7 @@ Open to a work-study program (alternance) in AI starting October 2026.
 
 **Experience**
 
-At Free Iliad, I worked on a real-time screenshot processing app (Laravel, Redis, WebSockets, Vue.js, Docker, GitLab CI/CD), and now on *Study Group*, an app that generates lessons and exercises from documents using an LLM, built with a hexagonal architecture.
+At Free Iliad, I worked on *Screenshot-app* a real-time screenshot processing app (Laravel, Redis, WebSockets, Vue.js, Docker, GitLab CI/CD), and now on *Study Group*, an app that generates lessons and exercises from documents using an LLM, built with a hexagonal architecture.
 
 **Stack**
 
