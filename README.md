@@ -3,10 +3,11 @@
 **About**
 
 Full-stack developer, I build applications with an AI layer. Starting an MSc in Artificial Intelligence at Epitech this fall to go further on that side.
+Open to a work-study program (alternance) in AI starting October 2026.
+
+**Experience**
 
 At Free Iliad, I work on a real-time screenshot processing app (Laravel, Redis, WebSockets, Vue.js, Docker, GitLab CI/CD), and on *Study Group*, an app that generates lessons and exercises from documents using an LLM, built with a hexagonal architecture.
-
-Open to a work-study program (alternance) in AI starting October 2026.
 
 **Stack**
 
