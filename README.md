@@ -3,6 +3,7 @@
 **About**
 
 Full-stack developer, I build applications with an AI layer. Starting an MSc in Artificial Intelligence at Epitech this fall to go further on that side.
+
 Open to a work-study program (alternance) in AI starting October 2026.
 
 **Experience**
