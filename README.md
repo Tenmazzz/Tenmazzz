@@ -2,17 +2,21 @@
 
 **About**
 
-Full-stack developer, I build applications with an AI layer. Starting an MSc in Artificial Intelligence at Epitech this fall to go further on that side.
+I mostly work on backend and infrastructure — Python, FastAPI, Laravel, PostgreSQL, Docker. At Free Iliad, I work on projects using Docker, GitLab CI/CD, and Vue.js. Starting an MSc in Artificial Intelligence at Epitech this fall.
 
 Open to a work-study program (alternance) in AI starting October 2026.
 
-**Experience**
+**Tools & Tech**
 
-At Free Iliad, I worked on *Screenshot-app* a real-time screenshot processing app (Laravel, Redis, WebSockets, Vue.js, Docker, GitLab CI/CD), and now on *Study Group*, an app that generates lessons and exercises from documents using an LLM, built with a hexagonal architecture.
+- Python, FastAPI, Laravel
+- Vue.js, PostgreSQL
+- Docker, GitLab CI/CD
 
-**Stack**
+**A Bit About Me**
 
-Python, FastAPI, Laravel, Vue.js, PostgreSQL, Docker, GitLab CI/CD
+- Into video games and anime
+- Play volleyball
+- Experimenting with local LLMs on the side
 
 **Contact**
 
