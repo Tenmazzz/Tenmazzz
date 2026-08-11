@@ -2,7 +2,7 @@
 
 **About**
 
-I mostly work on backend and infrastructure — Python, FastAPI, Laravel, PostgreSQL, Docker. At Free Iliad, I work on projects using Docker, GitLab CI/CD, and Vue.js. Starting an MSc in Artificial Intelligence at Epitech this fall.
+I mostly work on backend and infrastructure : Python, FastAPI, Laravel, PostgreSQL, Docker. At Free Iliad, I work on projects using Docker, GitLab CI/CD, and Vue.js. Starting an MSc in Artificial Intelligence at Epitech this fall.
 
 Open to a work-study program (alternance) in AI starting October 2026.
 
