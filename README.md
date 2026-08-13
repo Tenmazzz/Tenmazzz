@@ -4,9 +4,7 @@ I'm Rayan, a full-stack developer based in France. I'm passionate about LLMs, cu
 
 At Free Iliad, I build REST APIs and work on Docker/CI-CD infrastructure as part of my internship.
 
-Starting an MSc in Artificial Intelligence at Epitech this fall.
-
-Open to a work-study program (alternance) from October 2026.
+Starting an MSc in Artificial Intelligence at Epitech this fall, open to a work-study program (alternance) from October 2026.
 
 ---
 
