@@ -1,9 +1,10 @@
 ### Hey there
 
-I'm Rayan, a full-stack developer based in France.
-I mostly work on backend and infrastructure : Python, FastAPI, Laravel, PostgreSQL, Docker. At Free Iliad, I work on projects using Docker, GitLab CI/CD, and Vue.js. Starting an MSc in Artificial Intelligence at Epitech this fall.
+I'm Rayan, a full-stack developer based in France. I'm passionate about LLMs, currently experimenting with LangGraph and building small agent workflows on the side.
+At Free Iliad, I work on REST APIs with FastAPI and Laravel, and set up the Docker infrastructure and GitLab CI/CD pipeline. Frontend side, the projects use Vue.js and PostgreSQL for storage.
+Starting an MSc in Artificial Intelligence at Epitech this fall.
 
-Open to a work-study program (alternance) in AI starting October 2026.
+Starting an MSc in Artificial Intelligence at Epitech this fall, and open to a work-study program (alternance) from October 2026.
 
 ---
 
@@ -19,7 +20,7 @@ Open to a work-study program (alternance) in AI starting October 2026.
 
 - Into video games and anime
 - Play volleyball
-- Experimenting with local LLMs on the side
+- Always curious about new tech
 
 ---
 
