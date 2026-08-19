@@ -1,6 +1,6 @@
 ### Hey there
 
-I'm Rayan, a full-stack developer based in France. I'm passionate about LLMs, currently experimenting with LangGraph and building small agent workflows on the side.
+I'm Rayan, a full-stack developer based in France. I'm passionate about LLMs, currently experimenting with LangGraph and building useful agent workflows on the side.
 
 At Free Iliad, I build REST APIs and work on Docker/CI-CD infrastructure as part of my internship.
 
